@@ -1,0 +1,32 @@
+body {
+  font-family: "Rowdies", cursive;
+  margin: 0;
+}
+h1 {
+  font-size: 50px;
+}
+.span1 {
+  color: orange;
+}
+.section-1 {
+  display: flex;
+  background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.half-width {
+  width: 100%;
+  padding: 7%;
+  text-align: justify;
+}
+.half-width img {
+  width: 80%;
+  padding-bottom: 35px;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 50px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700px;
+}
